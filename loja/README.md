@@ -1,2 +1,0 @@
-# loja
-aula SW
